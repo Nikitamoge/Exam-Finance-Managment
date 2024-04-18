@@ -1,0 +1,3 @@
+Expense Report:
+12.1.2020: 300 - Category 7
+12.12.2020: 500 - Category 1
